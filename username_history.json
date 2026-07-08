@@ -459,7 +459,9 @@
   },
   "8456195348": {
     "name": "ᴍᴜᴢ ᴏғғɪᴄᴇ ʀᴇᴀʟ ᴠ1 [ᴏᴘᴇɴ ᴍᴀɴᴛᴀx]",
-    "history": []
+    "history": [
+      "MUZOFFICIALREALV1"
+    ]
   },
   "8127271819": {
     "name": "ディクズ",
@@ -536,5 +538,9 @@
     "history": [
       "botrkpfree_bot"
     ]
+  },
+  "8250631251": {
+    "name": "Support Line Bank Service Care",
+    "history": []
   }
 }
