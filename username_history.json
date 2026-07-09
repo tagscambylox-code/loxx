@@ -5868,7 +5868,9 @@
   },
   "8869289628": {
     "name": "CoinMarketCap Official Support",
-    "history": []
+    "history": [
+      "CoinMarketCapPricee"
+    ]
   },
   "8492021451": {
     "name": "𝑹𝒂𝑭𝒛 [𝑶𝒑𝒆𝒏 𝒎𝒖𝒓𝒃𝒖𝒈 ξ 𝒕𝒗𝒆]",
@@ -8271,6 +8273,10 @@
   },
   "8395537375": {
     "name": "¡m #𝙆𝙖𝙡𝙯Xy Official",
+    "history": []
+  },
+  "8369973675": {
+    "name": "SUPPORT BINANCE",
     "history": []
   }
 }
