@@ -8245,7 +8245,9 @@
   },
   "8819145259": {
     "name": "#1 G P S",
-    "history": []
+    "history": [
+      "IR_KOPRAL"
+    ]
   },
   "7164140105": {
     "name": "Dika",
@@ -8265,6 +8267,10 @@
   },
   "8602029447": {
     "name": "Oyen",
+    "history": []
+  },
+  "8395537375": {
+    "name": "¡m #𝙆𝙖𝙡𝙯Xy Official",
     "history": []
   }
 }
