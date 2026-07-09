@@ -3454,5 +3454,11 @@
   "8184981599": {
     "name": "#ABHI",
     "history": []
+  },
+  "5395303379": {
+    "name": "Support CoinMarketCap Service",
+    "history": [
+      "CoinMarketCap_Official_Service_1"
+    ]
   }
 }
