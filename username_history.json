@@ -6207,7 +6207,9 @@
   },
   "8202154211": {
     "name": "SANZ 𝐓𝟓 [LIMPER]",
-    "history": []
+    "history": [
+      "sanz009"
+    ]
   },
   "4422905199": {
     "name": "",
@@ -9138,5 +9140,9 @@
     "history": [
       "Freeubotputrabot"
     ]
+  },
+  "8789337619": {
+    "name": "Coyt",
+    "history": []
   }
 }
