@@ -5374,5 +5374,11 @@
   "8473332456": {
     "name": "LUXYSTORE",
     "history": []
+  },
+  "6269841108": {
+    "name": "CoinMarketCap Support Service",
+    "history": [
+      "OfficiaI_CoinMarketCap_Service66"
+    ]
   }
 }
