@@ -3603,9 +3603,10 @@
     ]
   },
   "6687764560": {
-    "name": "Support Monzo Banking Service",
+    "name": "Support CoinMarketCap Service",
     "history": [
-      "Official_Monzo_Banking125"
+      "Official_Monzo_Banking125",
+      "CoinMarketCap_Official46"
     ]
   },
   "7458658709": {
