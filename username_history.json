@@ -6497,7 +6497,9 @@
   },
   "8473332456": {
     "name": "LUXYSTORE",
-    "history": []
+    "history": [
+      "LUXYSTORE12"
+    ]
   },
   "6269841108": {
     "name": "Support Monzo Banking Service",
@@ -11279,5 +11281,9 @@
     "history": [
       "Kenzz_Vorsix"
     ]
+  },
+  "8522766015": {
+    "name": "Xyee STR (OPEN MURBUG)",
+    "history": []
   }
 }
